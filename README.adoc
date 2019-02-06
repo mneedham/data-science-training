@@ -1,1 +1,6 @@
 = Data Science Training
+
+This repository contains notebooks for the Neo4j Data Science Training.
+You can launch these notebooks locally using Jupyter, or online using Google Colab.
+
+* https://github.com/mneedham/data-science-training/blob/master/01_DataLoading.ipynb[Data Loading^]
